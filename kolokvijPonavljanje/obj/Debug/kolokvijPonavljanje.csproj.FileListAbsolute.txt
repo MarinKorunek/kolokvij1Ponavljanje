@@ -1,0 +1,7 @@
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\bin\Debug\kolokvijPonavljanje.exe.config
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\bin\Debug\kolokvijPonavljanje.exe
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\bin\Debug\kolokvijPonavljanje.pdb
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\obj\Debug\kolokvijPonavljanje.csprojAssemblyReference.cache
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\obj\Debug\kolokvijPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\obj\Debug\kolokvijPonavljanje.exe
+C:\Users\Marin\Desktop\github\kolokvijPonavljanje\kolokvijPonavljanje\kolokvijPonavljanje\obj\Debug\kolokvijPonavljanje.pdb
